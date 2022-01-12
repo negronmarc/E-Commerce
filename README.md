@@ -4,7 +4,6 @@
   The goal for this project was to build the back-end of a e-commerce site and configure a working Express.js API that uses Sequelize to interact with a MySQL database. 
   
   ## Table of Contents
-  - [Installation](#installation)
   - [Usage](#usage)
   - [Technologies](#technologies)
   - [Preview](#preview)
@@ -25,7 +24,7 @@
   ## Preview
   ![Img](/images/preview.PNG)
   
-  ## Launch
+  ## Video
   [Screencastify](https://watch.screencastify.com/v/2zOibWiSqeXpNpLROF9F) 
   
   ## License
